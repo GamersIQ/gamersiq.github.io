@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: GamersIQ - Tips and Tricks of advanced gameplay
+title: GamersIQ - Advanced Gameplay Intelligence
 email: mail@gamersiq.blog
 description: >- # this means to ignore newlines until "baseurl:"
   I play games for fun. Sometimes I am diving deep into a game and learn
-  about its gameplay. That is the moment I want to share what I learnt to
-  make the gameplay also fun for you.
+  about its gameplay. That is the moment I want to share it with you.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: gamersiq.blog
 url: "gamersiq.blog" # the base hostname & protocol for your site, e.g. http://example.com
@@ -34,6 +33,12 @@ url: "gamersiq.blog" # the base hostname & protocol for your site, e.g. http://e
 theme: minima
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -54,3 +59,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
