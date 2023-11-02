@@ -14,7 +14,7 @@ I would describe Farmstead as a typical farming game with capabilities to raise 
 The best: Up to this post the game is under active development and is truly one of the best and complete farming games on Roblox.
 
 What makes it so great:
-- While collecting experience on several skill attributes you will unlock new shop items at each level reached. There are 10 base levels on 8 skills.
+- While collecting experience on several skill attributes you will unlock new shop items at each level reached. There are 10 base levels on 6 skills: Cooking, Farming, Fishing, Foraging, Mining and Woodcutting.
 - Yes, there is a diamond currency in the game but you will not be bugged to really buy more.
 - The farm land starts with an island, there are 3 main extensions which can be unlocked with ingame coins and a secret cave additionally which unlocks after the character reached 30 skill levels in total.
 - The game glances with various crops, fruits and vegetables, trees and animals.
