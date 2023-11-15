@@ -16,30 +16,30 @@ Welcome to GamersIQ.blog, where we delve into the clandestine realm of gaming ma
 1. **[Optimize Your Settings](#optimize)**
    - Adjust graphics, controls, and sound settings for optimal performance. A smooth gaming experience can make a significant difference.
 
-2. **[[Master Your Controls|#controls]]**
+2. **[Master Your Controls](#controls)**
    - Customize controls to suit your playstyle. Fine-tune sensitivity settings for precise aiming and swift movements.
 
-3. **[[Map Awareness is Key|#awareness]]**
+3. **[Map Awareness is Key](#awareness)**
    - Always stay aware of your surroundings. Knowing the map layout, spawn points, and key locations gives you a strategic advantage.
 
-4. **[[Communication is Crucial|#communication]]**
+4. **[Communication is Crucial](#communication)**
    - Use in-game chat or voice features to communicate with your team effectively. Coordination can lead to decisive victories.
 
-5. **[[Loadout Strategy|#strategy]]**
+5. **[Loadout Strategy](#strategy)**
    - Experiment with different loadouts and find the one that complements your playstyle. Adapt your loadout based on the game mode and opponents.
 
-6. **[[Economy Management|#economy]]**
+6. **[Economy Management](#economy)**
    - In games with resource management, wisely invest in upgrades, weapons, or items. Balancing offense and defense is essential.
 
-7. **[[Learn from the Pros|#learn]]**
+7. **[Learn from the Pros](#learn)**
    - Watch professional gamers and learn their tactics. Analyze their gameplay to gain insights into positioning, decision-making, and strategies.
 
-8. **[[Stay Calm Under Pressure|#calm]]**
+8. **[Stay Calm Under Pressure](#calm)**
    - Keep a cool head during intense moments. Panicking can lead to poor decisions. Stay focused, and you'll make better choices.
 
 —
 
-## 1. Optimize Your Settings {#optimize}
+## 1. Optimize Your Settings #optimize
 
 ![Optimize](/assets/images/gameplay_tips_1.jpg)
 
