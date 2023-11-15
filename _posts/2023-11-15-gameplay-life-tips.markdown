@@ -39,7 +39,7 @@ Welcome to GamersIQ.blog, where we delve into the clandestine realm of gaming ma
 
 —
 
-## 1. Optimize Your Settings #optimize
+## 1. Optimize Your Settings {#optimize}
 
 ![Optimize](/assets/images/gameplay_tips_1.jpg)
 
