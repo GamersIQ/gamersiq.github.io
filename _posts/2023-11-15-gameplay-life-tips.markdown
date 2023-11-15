@@ -13,7 +13,7 @@ Welcome to GamersIQ.blog, where we delve into the clandestine realm of gaming ma
 
 ## Table of Contents
 
-1. **[[Optimize Your Settings|#optimize]]**
+1. **[Optimize Your Settings|#optimize]**
    - Adjust graphics, controls, and sound settings for optimal performance. A smooth gaming experience can make a significant difference.
 
 2. **[[Master Your Controls|#controls]]**
